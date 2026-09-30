@@ -21,6 +21,7 @@ Amb aquest projecte es treballen els conceptes bàsics d'una aplicació Android:
 - Aplicar condicions amb `if` i `when`
 - Validar dades introduïdes per l'usuari
 - Mostrar o ocultar components
-
-![Captura de l'aplicació](images/bmi-calculator.png)
+<p align="center">
+  <img src="images/bmi-calculator.png" alt="Captura de l'aplicació" width="300">
+</p>
 
